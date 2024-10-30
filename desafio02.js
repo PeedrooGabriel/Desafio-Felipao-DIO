@@ -1,4 +1,4 @@
-player(100, 22)
+player(91, 22)
 
 function player(victory, defeat){
     let winRecord = victory - defeat;
