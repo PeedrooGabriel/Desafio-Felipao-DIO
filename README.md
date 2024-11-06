@@ -1,4 +1,4 @@
-# :trophy: Desafio Proposto pelo Felipão da DIO
+# :trophy: Desafios Propostos pelo Felipão da DIO
 
 ## :dart: Objetivos Deste Repositório:
 
