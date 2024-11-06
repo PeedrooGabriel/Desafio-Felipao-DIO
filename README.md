@@ -2,8 +2,9 @@
 
 ## :dart: Objetivos Deste Repositório:
 
-- Resolver o desafio proposto pelo Felipe, professor de lógica de programação da plataforma DIO - Digital Innovation One, no Bootcamp da GFT para vagas de estágio :man_technologist:
-- Desenvolver minhas habilidades em JavaScript :rocket:
+- Resolver os desafios propostos pelo Felipe, professor de lógica de programação da plataforma DIO - Digital Innovation One, no Bootcamp da GFT para vagas de estágio :man_technologist:
+- Desenvolver minhas habilidades em lógica de programação e JavaScript :rocket:
+
 
 ## Fale Comigo
 
