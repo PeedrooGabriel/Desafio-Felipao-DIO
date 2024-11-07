@@ -11,7 +11,7 @@ class Hero{
             case "magia":
                 console.log(`O ${this.heroClass} atacou usando ${attack}`);
                 break;
-            case "marciais": 
+            case "artes marciais": 
                 console.log(`O ${this.heroClass} atacou usando ${attack}`);
                 break;
             case "shuriken":
